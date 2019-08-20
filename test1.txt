@@ -1,0 +1,10 @@
+ Volume in drive E is DATA
+ Volume Serial Number is 6E1E-0E04
+
+ Directory of E:\GitBashProjects
+
+08/20/2019  10:10 PM    <DIR>          .
+08/20/2019  10:10 PM    <DIR>          ..
+08/20/2019  10:10 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  998,195,814,400 bytes free
